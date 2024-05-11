@@ -1,1 +1,3 @@
 My logging configuration!!!!!!!!
+
+Some changes to config
